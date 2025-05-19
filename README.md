@@ -1,7 +1,7 @@
 
 # Project Title
 saya rajendra nayaka
-kelas 12 pplg
+software development
 ## sosmed
 
 - [@rjn.nayaka](https://www.instagram.com/rjn.nayaka_/)
